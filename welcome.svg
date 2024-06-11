@@ -217,7 +217,7 @@
             <li>Actually, I am a Chinese middle school student</li>
           </ul>
           <ul>
-                        <li><a href="https://nb-group.github.io/" role="button"><span class='hi'>This is my personal website</span></a></li>
+                        <li><a href="https://nb-group.github.io/" role="button"><span >This is my personal website</span></a></li>
 
           </ul>
         </section>
