@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="welcome.svg">
 </div>
