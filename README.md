@@ -1,7 +1,8 @@
 ## Hi there 👋
-欢迎来到𝓃𝒷-ℊ𝓇ℴ𝓊𝓅的主页。
+<div align="center">
+  <img src="welcome.svg">
+</div>
 
-𝓃𝒷-ℊ𝓇ℴ𝓊𝓅原名：梁皓文
 ### 个人信息
 - 生日：2011/11/17
 - 年龄：自己算
