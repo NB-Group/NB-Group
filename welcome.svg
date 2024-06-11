@@ -203,7 +203,7 @@
     <div class='body'>
       <div class='container'>
         <h1>
-       <a href="https://github.com/NB-Group">
+          <a href="https://github.com/NB-Group">
             <span><em>NB-Group</em></span>
             <span><em>NB-Group</em></span>
             <span><em>NB-Group</em></span>
@@ -211,13 +211,14 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer Software Engineer</a></li>
+            <li>Writer &#38; Software Engineer</li>
           </ul>
           <ul>
-            <li>Actually, I am a Chinese middle school student</a></li>
+            <li>Actually, I am a Chinese middle school student</li>
           </ul>
           <ul>
-            <li><a href="https://nb-group.github.io/" role="button"><span class='hi'>This is my personal website</span></a></li>
+                        <li><a href="https://nb-group.github.io/" role="button"><span class='hi'>This is my personal website</span></a></li>
+
           </ul>
         </section>
       </div>
