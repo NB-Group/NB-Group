@@ -1,9 +1,9 @@
 <div align="center">
   <img src="welcome.svg">
+  <div>YOU SHOULD BETTER LOOK MY WEBSITE FIRSTLY ! <br>
+  [Click here](https://nb-group.github.io/)</div>
 </div>
 
-# YOU SHOULD BETTER LOOK MY WEBSITE FIRSTLY !
-[Click here](https://nb-group.github.io/)
 
 
 <!--
